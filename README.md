@@ -4,7 +4,7 @@
 
 ## Sobre
 
-- Exercicio de análise de series onde analisamos dados fictícios de arquivos csv.
+- Exercício de análise de series onde analisamos dados fictícios de arquivos csv.
 
 ## Linguagem utilizada
 - Python
