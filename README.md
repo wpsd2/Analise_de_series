@@ -16,14 +16,18 @@
 
 ## Como executar o projeto
 
+[Notebook colab](https://colab.research.google.com/drive/1nfSQt9cfo4AVWH9NmzctP7AOBPsuRagk?usp=sharing)
+
+Ou
+
 Ter instalado o Python 3.9 e qualquer IDE que rode Python e as bibliotecas citadas.
 Recomendo usar o Jupyter Notebook ou Google Colaboratory pela praticidade.
 
-Jupyter Notebook -- inserir o link
+[Jupyter Notebook](https://jupyter.org/)
 
-Google Colaboratory -- Inserri o link
+[Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index)
 
--- Notebook com o código https://colab.research.google.com/drive/1nfSQt9cfo4AVWH9NmzctP7AOBPsuRagk?usp=sharing
+
 
 ## Gráficos gerados
 
