@@ -7,12 +7,12 @@
 - Exercício de análise de series temporais onde analisamos dados fictícios de arquivos csv.
 
 ## Linguagem utilizada
-- Python
+- [Python](https://www.python.org/)
 
 ## Bibliotecas
-- Pandas -- Talvez inserir a documentação da bibliotcas
-- Seaborn -- Talvez inserir a documentação da bibliotcas
-- matplotlib -- Talvez inserir a documentação da bibliotcas
+- [Pandas](https://pandas.pydata.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [matplotlib](https://matplotlib.org/)
 
 ## Como executar o projeto
 
