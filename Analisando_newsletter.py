@@ -8,7 +8,7 @@ from pandas.plotting import autocorrelation_plot
 
 
 
-assinantes = pd.read_csv('/content/newsletter_alucar.csv')
+assinantes = pd.read_csv('arquivos/newsletter_alucar.csv')
 assinantes.head()
 
 assinantes.dtypes
