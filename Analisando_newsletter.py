@@ -5,8 +5,7 @@ import seaborn as sns
 from matplotlib import pyplot as plt
 from pandas.plotting import autocorrelation_plot
 
-
-
+from analise_de_vendas import plot_comparacao
 
 assinantes = pd.read_csv('arquivos/newsletter_alucar.csv')
 assinantes.head()
